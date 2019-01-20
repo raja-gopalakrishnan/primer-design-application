@@ -51,4 +51,4 @@ If you get the following error, it is due to an invalid gene name that has been 
 ```
 Error: arguments imply differing number of rows: 1, 0
 ```
-Check that you have entered the gene name correctly. Try entering the systematic name for the gene instead of the common name. You can find the systematic name for your facvorite gene on [SGD](https://www.yeastgenome.org/). The application will identify any of the 6819 genes present in the sgd_ids.tsv file.
+Check that you have entered the gene name correctly. Try entering the systematic name for the gene instead of the common name. You can find the systematic name for your favorite gene on [SGD](https://www.yeastgenome.org/). The application will identify any of the 6819 genes present in the sgd_ids.tsv file.
