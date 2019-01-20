@@ -1,0 +1,9 @@
+HA	kanMX	FB2317
+GFP	kanMX	FB2314
+myc	kanMX	FB2320
+Flag	kanMX	FB2694
+HA	natMX	FB2517
+myc	natMX	FB2518
+deletion	kanMX	FB2311
+deletion	hygMX	FB2543
+deletion	natMX	FB2542
