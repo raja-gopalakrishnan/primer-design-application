@@ -37,7 +37,7 @@ Select if you want primers for deleting or tagging the gene
 This number specifies the number of overhanging homologous nucleotides for directing the deletion/tagging cassette to the right location in the genome.
 #### 4. Select the tag (if tagging gene) and selection cassette (optional)
 These values are used to return the plasmid number from our lab database that can be used for the deletion/selection.
-### 5. Click Submit!
+#### 5. Click Submit!
 
 ## Interpreting the results
 
